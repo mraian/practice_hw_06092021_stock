@@ -3,6 +3,6 @@
 2020:
 
 S&P 500 best stock:
-Tesla	- 743%
-Etsy	- 302%
+1.Tesla	- 743%
+2.Etsy	- 302%
 
