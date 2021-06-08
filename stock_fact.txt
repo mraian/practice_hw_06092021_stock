@@ -7,4 +7,5 @@ S&P 500 best stock:
 2.Etsy	- 302%
 3.Nvidia- 122%
 4.Paypal- 117% 
+5.L brands-105%
 
